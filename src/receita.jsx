@@ -5,7 +5,7 @@ const Receita = () => {
     <div>
       <h1>Receita de bolo de caneca</h1>
       <h3>Ingredientes</h3>
-      <p>1 ovo</p>
+      <p>2 ovos</p>
       <p>3 colheres de sopa de açúcar</p>
       <p>1 colher de sopa de óleo</p>
       <p>4 colheres de sopa de leite</p>
