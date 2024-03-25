@@ -4,7 +4,7 @@ import Receita from "./receita";
 function App() {
   return (
     <>
-      <Receita />
+      <Receitas />
     </>
   );
 }
